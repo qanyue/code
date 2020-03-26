@@ -1,0 +1,130 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	backslash	/slash or backslash/
+!_TAG_OUTPUT_MODE	e-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6184ac86/
+Arsize	5.9.2.cpp	/^const int Arsize = 100;$/;"	v	typeref:typename:const int
+Circle	ClassTest.cpp	/^    Circle() { radious = 1.0; }$/;"	f	class:Circle	file:
+Circle	ClassTest.cpp	/^    Circle(double radious) { this->radious = radious; }$/;"	f	class:Circle	file:
+Circle	ClassTest.cpp	/^class Circle {$/;"	c	file:
+Number	MathSort.cpp	/^class Number$/;"	c	file:
+X	ClassTest.cpp	/^    X() : c1{2.0} { state = 1.0; };$/;"	f	class:X	file:
+X	ClassTest.cpp	/^class X {$/;"	c	file:
+__anon10c446750102	InlineTest.cpp	/^	auto person = new bool [n] {true};$/;"	f	function:main	file:
+a	HideObjectTest.cpp	/^    int a;$/;"	m	class:u	typeref:typename:int	file:
+a	RrturnReference.cpp	/^double & a(double & a)$/;"	f	typeref:typename:double &
+a	firsrTest.cpp	/^    a ()$/;"	f	class:a	file:
+a	firsrTest.cpp	/^    a (int new1)$/;"	f	class:a	file:
+a	firsrTest.cpp	/^class  a$/;"	c	file:
+accumulate	RrturnReference.cpp	/^void accumulate (double & a)$/;"	f	typeref:typename:void
+add	bigmathaddV2.cpp	/^void add(string& num1,string& num2)\/\/使用前判断num1,num2 大小，传入参数num1 需大/;"	f	typeref:typename:void
+area	DefalultFunctionTes.cpp	/^void area (int radius  )$/;"	f	typeref:typename:void
+arr	MathSort.cpp	/^    int arr [10] {};$/;"	m	class:Number	typeref:typename:int[10]	file:
+buffer	tiem.cpp	/^char s[1024], buffer[128], result[1024*4];$/;"	v	typeref:typename:char[1024][128]
+c1	ClassTest.cpp	/^    Circle c1;$/;"	m	class:X	typeref:typename:Circle	file:
+car	5.9.7.cpp	/^struct car$/;"	s	file:
+car	ReturnStructTest.cpp	/^struct car$/;"	s	file:
+change	ReturnStructTest.cpp	/^car change (car z)$/;"	f	typeref:typename:car
+circle	Circle.cpp	/^	circle ()$/;"	f	class:circle	file:
+circle	Circle.cpp	/^	circle(double newRadius)$/;"	f	class:circle	file:
+circle	Circle.cpp	/^class circle $/;"	c	file:
+getArea	Circle.cpp	/^	double getArea()$/;"	f	class:circle	typeref:typename:double	file:
+getArea	ClassTest.cpp	/^    double getArea() { return (3.14 * radious * radious); };$/;"	f	class:Circle	typeref:typename:double	file:
+getNumber	MathSort.cpp	/^    void getNumber()$/;"	f	class:Number	typeref:typename:void	file:
+getchars	CharArraryTest.cpp	/^char * getchars()$/;"	f	typeref:typename:char *
+hello	firsrTest.cpp	/^    void hello (int b = 0)$/;"	f	class:a	typeref:typename:void	file:
+i	Acm1055.cpp	/^    int i{};$/;"	v	typeref:typename:int
+isGreater	ArrayTest.cpp	/^bool isGreater(int a, int b) {$/;"	f	typeref:typename:bool
+latitude	latitude.cpp	/^double latitude (int degrees, int minutes, int seconds)$/;"	f	typeref:typename:double
+len	MathSort.cpp	/^    static const  int len = 10;$/;"	m	class:Number	typeref:typename:const int	file:
+main	5.9.1.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	5.9.2.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	5.9.3.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	5.9.4.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	5.9.7.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	6.11.1Test.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	6.11.2.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	6.11.5.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	Acm1055.cpp	/^int main()$/;"	f	typeref:typename:int
+main	AcmSkillTest.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	ArraySIzeTest.cpp	/^ int main()$/;"	f	typeref:typename:int
+main	ArrayTest.cpp	/^int main(int argc, char const *argv[]) {$/;"	f	typeref:typename:int
+main	BigMathDivide.cpp	/^int main()$/;"	f	typeref:typename:int
+main	BigMathMinus.cpp	/^int main()$/;"	f	typeref:typename:int
+main	Brother's_Homework.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	CctypeTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	CharArraryTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	Circle.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	ClassTest.cpp	/^int main() {$/;"	f	typeref:typename:void int
+main	ClockTest.cpp	/^int main()$/;"	f	typeref:typename:int
+main	ConstTest.cpp	/^int main()$/;"	f	typeref:typename:int
+main	CtemptureToHtempture.cpp	/^int main()$/;"	f	typeref:typename:int
+main	DefalultFunctionTes.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	DoubleNumberSummary.cpp	/^int main()$/;"	f	typeref:typename:int
+main	FileSumTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	FileTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	ForTest.cpp	/^int main()$/;"	f	typeref:typename:int
+main	HideObjectTest.cpp	/^int main()$/;"	f	typeref:typename:int
+main	IOtest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	InlineTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	LongToMa.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	MathSort.cpp	/^int main()$/;"	f	typeref:typename:int
+main	NotTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	PointPrecision.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	PointerTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	PopilationRate.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	PrintfTest.cpp	/^int main()$/;"	f	typeref:typename:int
+main	ReturnStructTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	RrturnReference.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	StaticTest.cpp	/^int main()$/;"	f	typeref:typename:int
+main	StingTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	StringFunctionTest.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	StringRight.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	WordCount.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	age.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	arraypointTest.cpp	/^int main(int argc, char const* argv[]) {$/;"	f	typeref:typename:int
+main	bigmathadd.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	bigmathaddV2.cpp	/^int main()$/;"	f	typeref:typename:int
+main	bigmathminusV2.cpp	/^int main()$/;"	f	typeref:typename:int
+main	bottle.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	c++4.1.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	f(x)print.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	firsrTest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	flatPrecison.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	height.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	howtodivide.cpp	/^int main() {$/;"	f	typeref:typename:int
+main	ifstreamtest.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	information.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	latitude.cpp	/^ int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	new/main.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	scanf.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	test.cpp	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	tiem.cpp	/^int main() {$/;"	f	typeref:typename:int
+minus2	BigMathMinus.cpp	/^void minus2(const string & num1,const string& num2)$/;"	f	typeref:typename:void
+minus2	howtodivide.cpp	/^const string minus2(string num1) {$/;"	f	typeref:typename:const string
+price	ReturnStructTest.cpp	/^	double price;$/;"	m	struct:car	typeref:typename:double	file:
+print	MathSort.cpp	/^    void  print()$/;"	f	class:Number	typeref:typename:void	file:
+print	arraypointTest.cpp	/^void print(array<int, 4>* a) {$/;"	f	typeref:typename:void
+producter	5.9.7.cpp	/^	string producter;$/;"	m	struct:car	typeref:typename:string	file:
+quickChange	MathSort.cpp	/^    void quickChange(int* arr, int len)$/;"	f	class:Number	typeref:typename:void	file:
+radious	ClassTest.cpp	/^    double radious;$/;"	m	class:Circle	typeref:typename:double	file:
+radius	Circle.cpp	/^	double radius {1};$/;"	m	class:circle	typeref:typename:double	file:
+recube	StringRight.cpp	/^double recube(const double &ra)$/;"	f	typeref:typename:double
+result	tiem.cpp	/^char s[1024], buffer[128], result[1024*4];$/;"	v	typeref:typename:char[1024][128][]
+s	tiem.cpp	/^char s[1024], buffer[128], result[1024*4];$/;"	v	typeref:typename:char[1024]
+state	ClassTest.cpp	/^    double state;$/;"	m	class:X	typeref:typename:double	file:
+type1	f(x)print.cpp	/^void type1()$/;"	f	typeref:typename:void
+type2	f(x)print.cpp	/^void type2()$/;"	f	typeref:typename:void
+u	HideObjectTest.cpp	/^    u(){$/;"	f	class:u	file:
+u	HideObjectTest.cpp	/^    u(int _a)$/;"	f	class:u	file:
+u	HideObjectTest.cpp	/^class u{$/;"	c	file:
+work_1	tiem.cpp	/^void work_1() {$/;"	f	typeref:typename:void
+work_2	tiem.cpp	/^void work_2() {$/;"	f	typeref:typename:void
+work_3	tiem.cpp	/^void work_3() {$/;"	f	typeref:typename:void
+year	5.9.7.cpp	/^	int year;$/;"	m	struct:car	typeref:typename:int	file:
+year	ReturnStructTest.cpp	/^	int year;$/;"	m	struct:car	typeref:typename:int	file:
+z	firsrTest.cpp	/^    int z=0;$/;"	m	class:a	typeref:typename:int	file:
