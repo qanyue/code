@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5075605-33c6-4ee0-9645-73e30b5b7a26" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/../5.9.1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.9.2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.9.3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.9.4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.9.7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.11.1Test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.11.2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.11.5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Acm1055.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcmSkillTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraySIzeTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BigMathDivide.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BigMathMinus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Brother's_Homework.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CctypeTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharArraryTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassStaticTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClockTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConstTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtemptureToHtempture.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DefalultFunctionTes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoubleNumberSummary.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileSumTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HideObjectTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOtest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InlineTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongToMa.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MathSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NotTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PointPrecision.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PointerTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PopilationRate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintfTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReturnStructTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RrturnReference.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StingTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringFunctionTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringRight.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordCount.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../acm1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../add_big.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../age.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arraypointTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigmathadd.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigmathaddV2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigmathminusV2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigmathmuiltyV2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bigmatmuilty.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bottle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/Acm1055.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ArrayTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/BigMathDivide.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/BigMathMinus.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/Brother's_Homework.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ClassStaticTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ConstTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/CtemptureToHtempture.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/DoubleNumberSummary.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/HideObjectTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/PointPrecision.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/PrintfTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/StingTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/StringFunctionTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/arraypointTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bigmathadd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bigmathaddV2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bigmathminusV2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bigmatmuilty.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/bottle.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/flatPrecison.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/howtodivide.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ioManipulate.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/martixTurn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/soperatorTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/structBindTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/vectorTest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/yzx.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++4.1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chararterTotal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dd_homework.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../f(x)print.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firsrTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flatPrecison.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../height.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../howtodivide.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifstreamtest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../information.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ioManipulate.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latitude.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../martixTurn.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sliponcold.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soperatorTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../structBindTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tiem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vectorTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yzx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../二分搜索.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../交换排序.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../快速排序.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数字整理.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../矩阵旋转(顺).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../素数筛法.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../读写数字优化.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../读写数字优化版本.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1q4G50oPyJad3yj6LVqHHImnIs8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d5075605-33c6-4ee0-9645-73e30b5b7a26" name="默认变更列表" comment="" />
+      <created>1616331264376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616331264376</updated>
+      <workItem from="1616331266992" duration="1384000" />
+      <workItem from="1616332722753" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
